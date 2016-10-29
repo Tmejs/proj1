@@ -9,5 +9,5 @@
  * @author Szymon
  */
 public class NowaKLasaZNowegoBrancha {
-   
+   //Tutaj cos sobie edytujemy
 }
